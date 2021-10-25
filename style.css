@@ -1,0 +1,15 @@
+li{
+    display: list-item;
+    
+}
+ul{
+    letter-spacing: 3px;
+    list-style-type: disc;
+}
+ins{
+    background-color: yellow;
+}
+a{
+    background-color: yellow;
+    text-decoration: none;
+}
